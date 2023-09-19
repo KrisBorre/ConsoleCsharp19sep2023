@@ -3,10 +3,14 @@
     private string name;
     private int rank;
 
-    public Student(Student s)
+    /// <summary>
+    /// copy constructor
+    /// </summary>
+    /// <param name="student"></param>
+    public Student(Student student)
     {
-        name = s.name;
-        rank = s.rank;
+        name = student.name;
+        rank = student.rank;
     }
 
     public Student(string name, int rank)
