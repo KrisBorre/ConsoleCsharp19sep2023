@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleBankAccount20sep2023
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDigitaleKluis22sep2023", "ConsoleDigitaleKluis22sep2023\ConsoleDigitaleKluis22sep2023.csproj", "{D0979661-74FA-4440-ABA7-05DFF415503C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleRekeningen22sep2023", "ConsoleRekeningen22sep2023\ConsoleRekeningen22sep2023.csproj", "{59FF2C23-5DC5-4CE2-BB19-FBF8077C57BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D0979661-74FA-4440-ABA7-05DFF415503C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0979661-74FA-4440-ABA7-05DFF415503C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0979661-74FA-4440-ABA7-05DFF415503C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59FF2C23-5DC5-4CE2-BB19-FBF8077C57BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59FF2C23-5DC5-4CE2-BB19-FBF8077C57BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59FF2C23-5DC5-4CE2-BB19-FBF8077C57BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59FF2C23-5DC5-4CE2-BB19-FBF8077C57BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
