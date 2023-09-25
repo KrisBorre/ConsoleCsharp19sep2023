@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleCopyConstructor19sep
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleBankAccount20sep2023", "ConsoleBankAccount20sep2023\ConsoleBankAccount20sep2023.csproj", "{A9B45AD2-02D0-4507-89F2-B956313428E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDigitaleKluis22sep2023", "ConsoleDigitaleKluis22sep2023\ConsoleDigitaleKluis22sep2023.csproj", "{D0979661-74FA-4440-ABA7-05DFF415503C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDigitaleKluis22sep2023", "ConsoleDigitaleKluis22sep2023\ConsoleDigitaleKluis22sep2023.csproj", "{D0979661-74FA-4440-ABA7-05DFF415503C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleRekeningen22sep2023", "ConsoleRekeningen22sep2023\ConsoleRekeningen22sep2023.csproj", "{59FF2C23-5DC5-4CE2-BB19-FBF8077C57BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleRekeningen22sep2023", "ConsoleRekeningen22sep2023\ConsoleRekeningen22sep2023.csproj", "{59FF2C23-5DC5-4CE2-BB19-FBF8077C57BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDierentuin25sep2023", "ConsoleApp1\ConsoleDierentuin25sep2023.csproj", "{EAECBF0D-F956-4277-9249-8AC5498B5EFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{59FF2C23-5DC5-4CE2-BB19-FBF8077C57BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59FF2C23-5DC5-4CE2-BB19-FBF8077C57BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59FF2C23-5DC5-4CE2-BB19-FBF8077C57BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAECBF0D-F956-4277-9249-8AC5498B5EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAECBF0D-F956-4277-9249-8AC5498B5EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAECBF0D-F956-4277-9249-8AC5498B5EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAECBF0D-F956-4277-9249-8AC5498B5EFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
