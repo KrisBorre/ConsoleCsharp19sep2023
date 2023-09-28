@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDierenFilter25sep202
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleMoederbord28sep2023", "ConsoleMoederbord28sep2023\ConsoleMoederbord28sep2023.csproj", "{AAFCBADD-3811-4E7A-879A-55E0B5D1CBFA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolePersoon28sep2023", "ConsolePersoon28sep2023\ConsolePersoon28sep2023.csproj", "{4C27914C-8A2A-41F6-AC08-4E04319747F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{AAFCBADD-3811-4E7A-879A-55E0B5D1CBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAFCBADD-3811-4E7A-879A-55E0B5D1CBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAFCBADD-3811-4E7A-879A-55E0B5D1CBFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C27914C-8A2A-41F6-AC08-4E04319747F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C27914C-8A2A-41F6-AC08-4E04319747F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C27914C-8A2A-41F6-AC08-4E04319747F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C27914C-8A2A-41F6-AC08-4E04319747F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
