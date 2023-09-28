@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleRekeningen22sep2023"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDierentuin25sep2023", "ConsoleDierentuin25sep2023\ConsoleDierentuin25sep2023.csproj", "{F322BC5C-497D-44CB-8052-F84FFA3EE422}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDierenFilter25sep2023", "ConsoleDierenFilter25sep2023\ConsoleDierenFilter25sep2023.csproj", "{639EC769-516E-4D56-A94F-07CE32E307F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDierenFilter25sep2023", "ConsoleDierenFilter25sep2023\ConsoleDierenFilter25sep2023.csproj", "{639EC769-516E-4D56-A94F-07CE32E307F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleMoederbord28sep2023", "ConsoleMoederbord28sep2023\ConsoleMoederbord28sep2023.csproj", "{AAFCBADD-3811-4E7A-879A-55E0B5D1CBFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{639EC769-516E-4D56-A94F-07CE32E307F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{639EC769-516E-4D56-A94F-07CE32E307F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{639EC769-516E-4D56-A94F-07CE32E307F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAFCBADD-3811-4E7A-879A-55E0B5D1CBFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAFCBADD-3811-4E7A-879A-55E0B5D1CBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAFCBADD-3811-4E7A-879A-55E0B5D1CBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAFCBADD-3811-4E7A-879A-55E0B5D1CBFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
