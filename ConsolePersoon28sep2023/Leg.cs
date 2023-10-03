@@ -1,11 +1,11 @@
 ﻿namespace ConsolePersoon28sep2023
 {
-    internal enum Muscularity
+    public enum Muscularity
     {
         Lean, Fat, Very, Thin
     }
 
-    internal class Leg
+    public class Leg
     {
         public enum LeftOrRight
         {

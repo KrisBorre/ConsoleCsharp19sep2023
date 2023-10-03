@@ -1,6 +1,6 @@
 ﻿namespace ConsolePersoon28sep2023
 {
-    internal class Hand
+    public class Hand
     {
         public int NumberOfFingers { get; set; }
 

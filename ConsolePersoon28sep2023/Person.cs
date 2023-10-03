@@ -1,6 +1,6 @@
 ﻿namespace ConsolePersoon28sep2023
 {
-    internal class Person
+    public class Person
     {
         private int age;
 
