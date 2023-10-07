@@ -30,6 +30,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleStringBuilder5oct202
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleBessel7oct2023", "ConsoleBessel7oct2023\ConsoleBessel7oct2023.csproj", "{87B0AFFA-80BF-46AF-BA1D-F9316CFA9E0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleIntegrationInterpolation7oct2023", "ConsoleIntegrationInterpolation7oct2023\ConsoleIntegrationInterpolation7oct2023.csproj", "{779276C4-62D6-43E4-8F57-DF28E8319547}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,6 +86,10 @@ Global
 		{87B0AFFA-80BF-46AF-BA1D-F9316CFA9E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87B0AFFA-80BF-46AF-BA1D-F9316CFA9E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87B0AFFA-80BF-46AF-BA1D-F9316CFA9E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{779276C4-62D6-43E4-8F57-DF28E8319547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779276C4-62D6-43E4-8F57-DF28E8319547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779276C4-62D6-43E4-8F57-DF28E8319547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779276C4-62D6-43E4-8F57-DF28E8319547}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
