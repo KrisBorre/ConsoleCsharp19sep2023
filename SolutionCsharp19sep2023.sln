@@ -24,9 +24,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleEngine3oct2023", "Co
 		{4C27914C-8A2A-41F6-AC08-4E04319747F4} = {4C27914C-8A2A-41F6-AC08-4E04319747F4}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleIsAndAsOperators5oct2023", "ConsoleIsAndAsOperators5oct2023\ConsoleIsAndAsOperators5oct2023.csproj", "{0B302B33-D945-4513-B10E-A9BDC90F7339}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleIsAndAsOperators5oct2023", "ConsoleIsAndAsOperators5oct2023\ConsoleIsAndAsOperators5oct2023.csproj", "{0B302B33-D945-4513-B10E-A9BDC90F7339}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleStringBuilder5oct2023", "ConsoleStringBuilder5oct2023\ConsoleStringBuilder5oct2023.csproj", "{3BF285FF-4EF1-4B14-B930-FB72BC7DF5E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleStringBuilder5oct2023", "ConsoleStringBuilder5oct2023\ConsoleStringBuilder5oct2023.csproj", "{3BF285FF-4EF1-4B14-B930-FB72BC7DF5E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleBessel7oct2023", "ConsoleBessel7oct2023\ConsoleBessel7oct2023.csproj", "{87B0AFFA-80BF-46AF-BA1D-F9316CFA9E0D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -78,6 +80,10 @@ Global
 		{3BF285FF-4EF1-4B14-B930-FB72BC7DF5E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BF285FF-4EF1-4B14-B930-FB72BC7DF5E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BF285FF-4EF1-4B14-B930-FB72BC7DF5E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87B0AFFA-80BF-46AF-BA1D-F9316CFA9E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B0AFFA-80BF-46AF-BA1D-F9316CFA9E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B0AFFA-80BF-46AF-BA1D-F9316CFA9E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B0AFFA-80BF-46AF-BA1D-F9316CFA9E0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
