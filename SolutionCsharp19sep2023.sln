@@ -28,9 +28,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleIsAndAsOperators5oct
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleStringBuilder5oct2023", "ConsoleStringBuilder5oct2023\ConsoleStringBuilder5oct2023.csproj", "{3BF285FF-4EF1-4B14-B930-FB72BC7DF5E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleBessel7oct2023", "ConsoleBessel7oct2023\ConsoleBessel7oct2023.csproj", "{87B0AFFA-80BF-46AF-BA1D-F9316CFA9E0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleBessel7oct2023", "ConsoleBessel7oct2023\ConsoleBessel7oct2023.csproj", "{87B0AFFA-80BF-46AF-BA1D-F9316CFA9E0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleIntegrationInterpolation7oct2023", "ConsoleIntegrationInterpolation7oct2023\ConsoleIntegrationInterpolation7oct2023.csproj", "{779276C4-62D6-43E4-8F57-DF28E8319547}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleIntegrationInterpolation7oct2023", "ConsoleIntegrationInterpolation7oct2023\ConsoleIntegrationInterpolation7oct2023.csproj", "{779276C4-62D6-43E4-8F57-DF28E8319547}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsFrameworkBessel14oct2023", "WindowsFormsFrameworkBessel14oct2023\WindowsFormsFrameworkBessel14oct2023.csproj", "{AB2DE719-30AA-4BDE-A4F7-325103FC653F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -90,6 +92,10 @@ Global
 		{779276C4-62D6-43E4-8F57-DF28E8319547}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{779276C4-62D6-43E4-8F57-DF28E8319547}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{779276C4-62D6-43E4-8F57-DF28E8319547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB2DE719-30AA-4BDE-A4F7-325103FC653F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB2DE719-30AA-4BDE-A4F7-325103FC653F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB2DE719-30AA-4BDE-A4F7-325103FC653F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB2DE719-30AA-4BDE-A4F7-325103FC653F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
