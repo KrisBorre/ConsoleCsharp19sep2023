@@ -1,6 +1,6 @@
-﻿namespace ConsoleIntegrationInterpolation7oct2023
+﻿namespace LibraryInterpolation13nov2023
 {
-    internal class InterpolationLinear7oct2023 : InterpolationAbstractClass7oct2023
+    public class InterpolationLinear7oct2023 : InterpolationAbstractClass7oct2023
     {
         public InterpolationLinear7oct2023(double[] xv, double[] yv) : base(xv, yv, 2)
         { }

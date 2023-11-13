@@ -1,6 +1,6 @@
-﻿namespace ConsoleIntegrationInterpolation7oct2023
+﻿namespace LibraryInterpolation13nov2023
 {
-    internal abstract class InterpolationAbstractClass7oct2023
+    public abstract class InterpolationAbstractClass7oct2023
     {
         private bool cor;
         protected int n, mm, jsav, dj;

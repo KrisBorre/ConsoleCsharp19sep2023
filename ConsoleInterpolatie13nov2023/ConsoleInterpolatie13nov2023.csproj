@@ -8,7 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ConsolePersoon28sep2023\ConsolePersoon28sep2023.csproj" />
     <ProjectReference Include="..\LibraryInterpolation13nov2023\LibraryInterpolation13nov2023.csproj" />
   </ItemGroup>
 

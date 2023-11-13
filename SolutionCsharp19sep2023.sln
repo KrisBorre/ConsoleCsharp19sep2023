@@ -38,6 +38,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsFrameworkConsum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsFrameworkNormaalVerdeling14oct2023", "WindowsFormsFrameworkNormaalVerdeling14oct2023\WindowsFormsFrameworkNormaalVerdeling14oct2023.csproj", "{AC397EA1-3729-4ED7-8CD5-902174B75A03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryInterpolation13nov2023", "LibraryInterpolation13nov2023\LibraryInterpolation13nov2023.csproj", "{E2D53FF7-A3CC-4F99-A4DB-FA661E1B88E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleInterpolatie13nov2023", "ConsoleInterpolatie13nov2023\ConsoleInterpolatie13nov2023.csproj", "{1C744D24-034F-4724-8248-9E3557E92BFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -108,6 +112,14 @@ Global
 		{AC397EA1-3729-4ED7-8CD5-902174B75A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC397EA1-3729-4ED7-8CD5-902174B75A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC397EA1-3729-4ED7-8CD5-902174B75A03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2D53FF7-A3CC-4F99-A4DB-FA661E1B88E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2D53FF7-A3CC-4F99-A4DB-FA661E1B88E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2D53FF7-A3CC-4F99-A4DB-FA661E1B88E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2D53FF7-A3CC-4F99-A4DB-FA661E1B88E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C744D24-034F-4724-8248-9E3557E92BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C744D24-034F-4724-8248-9E3557E92BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C744D24-034F-4724-8248-9E3557E92BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C744D24-034F-4724-8248-9E3557E92BFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

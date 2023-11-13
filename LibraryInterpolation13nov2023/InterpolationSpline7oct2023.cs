@@ -1,6 +1,6 @@
-﻿namespace ConsoleIntegrationInterpolation7oct2023
+﻿namespace LibraryInterpolation13nov2023
 {
-    internal class InterpolationSpline7oct2023 : InterpolationAbstractClass7oct2023
+    public class InterpolationSpline7oct2023 : InterpolationAbstractClass7oct2023
     {
         private double[] y2;
 
