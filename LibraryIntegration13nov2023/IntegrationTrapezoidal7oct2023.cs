@@ -1,10 +1,10 @@
-﻿namespace ConsoleIntegrationInterpolation7oct2023
+﻿namespace LibraryIntegration13nov2023
 {
-    internal class IntegrationMidpoint7oct2023 : IntegrationAbstractClass7oct2023
+    public class IntegrationTrapezoidal7oct2023 : IntegrationAbstractClass7oct2023
     {
         private IntegrandAbstractClass7oct2023 integrand;
 
-        public IntegrationMidpoint7oct2023(IntegrandAbstractClass7oct2023 integrand, double a, double b)
+        public IntegrationTrapezoidal7oct2023(IntegrandAbstractClass7oct2023 integrand, double a, double b)
         {
             this.integrand = integrand;
             this.a = a;
@@ -14,36 +14,33 @@
 
         public override double Next()
         {
+            double x, tnm, sum, del;
             int it, j;
-            double x, tnm, sum, del, ddel;
             n++;
 
             if (n == 1)
             {
-                s = (b - a) * integrand.Function(0.5 * (a + b));
+                s = 0.5 * (b - a) * (integrand.Function(a) + integrand.Function(b));
             }
             else // n != 1
             {
                 for (it = 1, j = 1; j < n - 1; j++)
                 {
-                    it *= 3;
+                    it <<= 1;
                 }
 
                 tnm = it;
-                del = (b - a) / (3.0 * tnm);
-                ddel = del + del;
-                x = a + 0.5 * del;
-                sum = 0.0;
 
-                for (j = 0; j < it; j++)
+                del = (b - a) / tnm;
+
+                x = a + 0.5 * del;
+
+                for (sum = 0.0, j = 0; j < it; j++, x += del)
                 {
                     sum += integrand.Function(x);
-                    x += ddel;
-                    sum += integrand.Function(x);
-                    x += del;
                 }
 
-                s = (s + (b - a) * sum / tnm) / 3.0;
+                s = 0.5 * (s + (b - a) * sum / tnm);
             }
 
             return (double)s;
@@ -53,7 +50,7 @@
         {
             string result;
 
-            result = base.ToString() + " of " + integrand + " using the extended midpoint rule is ";
+            result = base.ToString() + " of " + integrand + " using the extended trapezoidal rule is ";
 
             if (s == null) result += "not calculated yet.";
             else result += s.ToString();
@@ -62,5 +59,4 @@
         }
 
     }
-
 }

@@ -1,6 +1,6 @@
-﻿namespace ConsoleIntegrationInterpolation7oct2023
+﻿namespace LibraryIntegration13nov2023
 {
-    abstract class IntegrationAbstractClass7oct2023
+    public abstract class IntegrationAbstractClass7oct2023
     {
         protected int n;
 

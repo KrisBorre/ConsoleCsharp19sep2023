@@ -1,5 +1,6 @@
 ﻿using ConsolePersoon28sep2023;
 using LibraryInterpolation13nov2023;
+using LibraryIntegration13nov2023;
 
 namespace ConsoleIntegrationInterpolation7oct2023
 {

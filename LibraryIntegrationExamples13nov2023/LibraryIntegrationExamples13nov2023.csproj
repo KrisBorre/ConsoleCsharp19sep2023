@@ -1,16 +1,13 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ConsolePersoon28sep2023\ConsolePersoon28sep2023.csproj" />
     <ProjectReference Include="..\LibraryIntegration13nov2023\LibraryIntegration13nov2023.csproj" />
-    <ProjectReference Include="..\LibraryInterpolation13nov2023\LibraryInterpolation13nov2023.csproj" />
   </ItemGroup>
 
 </Project>
