@@ -44,9 +44,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleInterpolatie13nov202
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryIntegration13nov2023", "LibraryIntegration13nov2023\LibraryIntegration13nov2023.csproj", "{E716985E-FE6A-47B9-94AB-A00449A78643}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryIntegrationExamples13nov2023", "LibraryIntegrationExamples13nov2023\LibraryIntegrationExamples13nov2023.csproj", "{911F2CD3-F987-4E15-86C9-EF45D3945FD1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryFunctionExamples13nov2023", "LibraryIntegrationExamples13nov2023\LibraryFunctionExamples13nov2023.csproj", "{911F2CD3-F987-4E15-86C9-EF45D3945FD1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleIntegration13nov2023", "ConsoleIntegration13nov2023\ConsoleIntegration13nov2023.csproj", "{5D71D5D4-ADCC-46A7-BDF7-B54AF8DF5FF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleIntegration14nov2023", "ConsoleIntegration14nov2023\ConsoleIntegration14nov2023.csproj", "{2A854081-8C70-4C65-9394-F3126A76B344}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -138,6 +140,10 @@ Global
 		{5D71D5D4-ADCC-46A7-BDF7-B54AF8DF5FF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D71D5D4-ADCC-46A7-BDF7-B54AF8DF5FF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D71D5D4-ADCC-46A7-BDF7-B54AF8DF5FF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A854081-8C70-4C65-9394-F3126A76B344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A854081-8C70-4C65-9394-F3126A76B344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A854081-8C70-4C65-9394-F3126A76B344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A854081-8C70-4C65-9394-F3126A76B344}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

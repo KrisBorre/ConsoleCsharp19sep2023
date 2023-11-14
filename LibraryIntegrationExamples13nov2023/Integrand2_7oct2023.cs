@@ -1,6 +1,6 @@
 ﻿using LibraryIntegration13nov2023;
 
-namespace LibraryIntegrationExamples13nov2023
+namespace LibraryFunctionExamples13nov2023
 {
     public class Integrand2_7oct2023 : IntegrandAbstractClass7oct2023
     {

@@ -1,5 +1,5 @@
 ﻿using LibraryIntegration13nov2023;
-using LibraryIntegrationExamples13nov2023;
+using LibraryFunctionExamples13nov2023;
 
 namespace ConsoleIntegration13nov2023
 {
