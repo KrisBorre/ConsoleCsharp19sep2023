@@ -7,13 +7,17 @@ namespace WindowsFormsFrameworkNormaalVerdeling14oct2023
 {
     public partial class Form1 : Form
     {
-        private Random14oct2023 gasdev;
+        private Random14oct2023 random;
+        private NormaalVerdeling6dec2023 gasdev;
 
         private Chart chart2;
 
         public Form1()
         {
             InitializeComponent();
+
+            ulong zaadje = 5;
+            random = new Random14oct2023(zaadje);
 
             Text = "Normaal verdeling";
 
@@ -51,20 +55,22 @@ namespace WindowsFormsFrameworkNormaalVerdeling14oct2023
             const int NPTS = 2000; // Aantal punten in histogram.
             const int N = 30; // 20; // N is het aantal histogrambalken.
             const int NOVER2 = N / 2;
-            ulong zaadje = (ulong)(5);
-            if (gasdev != null) { zaadje = gasdev.int64(); }
+            ulong zaadje = 5;
+            if (random != null) { zaadje = random.int64(); }
 
             double x6;
             int[] dist = new int[N + 1];
 
+            Method method = Method.Leva1992;
             if (comboBox1.SelectedIndex == 0)
             {
-                gasdev = new NormaalVerdeling_BoxMuller_14oct2023(0.0, variantie_breed, zaadje);
+                method = Method.BoxMuller;   
             }
             else if (comboBox1.SelectedIndex == 1)
             {
-                gasdev = new NormaalVerdeling_Leva1992_14oct2023(0.0, variantie_breed, zaadje);
+                method = Method.Leva1992;           
             }
+            gasdev = new NormaalVerdeling6dec2023(0.0, variantie_breed, zaadje, method);
 
             for (int j = 0; j <= N; j++) dist[j] = 0;
 

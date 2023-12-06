@@ -53,6 +53,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="NormaalVerdeling6dec2023.cs" />
     <Compile Include="NormaalVerdeling_BoxMuller_14oct2023.cs" />
     <Compile Include="NormaalVerdeling_Leva1992_14oct2023.cs" />
     <Compile Include="Program.cs" />
