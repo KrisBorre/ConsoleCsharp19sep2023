@@ -38,17 +38,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsFrameworkConsum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsFrameworkNormaalVerdeling14oct2023", "WindowsFormsFrameworkNormaalVerdeling14oct2023\WindowsFormsFrameworkNormaalVerdeling14oct2023.csproj", "{AC397EA1-3729-4ED7-8CD5-902174B75A03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryInterpolation13nov2023", "LibraryInterpolation13nov2023\LibraryInterpolation13nov2023.csproj", "{E2D53FF7-A3CC-4F99-A4DB-FA661E1B88E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryInterpolation13nov2023", "LibraryInterpolation13nov2023\LibraryInterpolation13nov2023.csproj", "{E2D53FF7-A3CC-4F99-A4DB-FA661E1B88E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleInterpolatie13nov2023", "ConsoleInterpolatie13nov2023\ConsoleInterpolatie13nov2023.csproj", "{1C744D24-034F-4724-8248-9E3557E92BFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleInterpolatie13nov2023", "ConsoleInterpolatie13nov2023\ConsoleInterpolatie13nov2023.csproj", "{1C744D24-034F-4724-8248-9E3557E92BFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryIntegration13nov2023", "LibraryIntegration13nov2023\LibraryIntegration13nov2023.csproj", "{E716985E-FE6A-47B9-94AB-A00449A78643}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryIntegration13nov2023", "LibraryIntegration13nov2023\LibraryIntegration13nov2023.csproj", "{E716985E-FE6A-47B9-94AB-A00449A78643}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryFunctionExamples13nov2023", "LibraryIntegrationExamples13nov2023\LibraryFunctionExamples13nov2023.csproj", "{911F2CD3-F987-4E15-86C9-EF45D3945FD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryFunctionExamples13nov2023", "LibraryIntegrationExamples13nov2023\LibraryFunctionExamples13nov2023.csproj", "{911F2CD3-F987-4E15-86C9-EF45D3945FD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleIntegration13nov2023", "ConsoleIntegration13nov2023\ConsoleIntegration13nov2023.csproj", "{5D71D5D4-ADCC-46A7-BDF7-B54AF8DF5FF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleIntegration13nov2023", "ConsoleIntegration13nov2023\ConsoleIntegration13nov2023.csproj", "{5D71D5D4-ADCC-46A7-BDF7-B54AF8DF5FF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleIntegration14nov2023", "ConsoleIntegration14nov2023\ConsoleIntegration14nov2023.csproj", "{2A854081-8C70-4C65-9394-F3126A76B344}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleIntegration14nov2023", "ConsoleIntegration14nov2023\ConsoleIntegration14nov2023.csproj", "{2A854081-8C70-4C65-9394-F3126A76B344}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleInterpolatie6dec2023", "ConsoleInterpolatie6dec2023\ConsoleInterpolatie6dec2023.csproj", "{CE6052ED-AE32-4B7C-999D-11472CCB9204}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -144,6 +146,10 @@ Global
 		{2A854081-8C70-4C65-9394-F3126A76B344}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A854081-8C70-4C65-9394-F3126A76B344}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A854081-8C70-4C65-9394-F3126A76B344}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE6052ED-AE32-4B7C-999D-11472CCB9204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE6052ED-AE32-4B7C-999D-11472CCB9204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE6052ED-AE32-4B7C-999D-11472CCB9204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE6052ED-AE32-4B7C-999D-11472CCB9204}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
