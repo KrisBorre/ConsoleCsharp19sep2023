@@ -2,15 +2,8 @@
 {
     public class IntegrationMidpoint7oct2023 : IntegrationAbstractClass7oct2023
     {
-        private IntegrandAbstractClass7oct2023 integrand;
-
-        public IntegrationMidpoint7oct2023(IntegrandAbstractClass7oct2023 integrand, double a, double b)
-        {
-            this.integrand = integrand;
-            this.a = a;
-            this.b = b;
-            n = 0;
-        }
+        public IntegrationMidpoint7oct2023(IntegrandAbstractClass7oct2023 integrand, double a, double b) : base(integrand, a, b)
+        { }
 
         public override double Next()
         {
@@ -20,7 +13,7 @@
 
             if (n == 1)
             {
-                s = (b - a) * integrand.Function(0.5 * (a + b));
+                solution = (b - a) * integrand.Function(0.5 * (a + b));
             }
             else // n != 1
             {
@@ -43,10 +36,10 @@
                     x += del;
                 }
 
-                s = (s + (b - a) * sum / tnm) / 3.0;
+                solution = (solution + (b - a) * sum / tnm) / 3.0;
             }
 
-            return (double)s;
+            return (double)solution;
         }
 
         public override string ToString()
@@ -55,8 +48,8 @@
 
             result = base.ToString() + " of " + integrand + " using the extended midpoint rule is ";
 
-            if (s == null) result += "not calculated yet.";
-            else result += s.ToString();
+            if (solution == null) result += "not calculated yet.";
+            else result += solution.ToString();
 
             return result;
         }

@@ -18,7 +18,7 @@ namespace WindowsFormsFrameworkBessel14oct2023
 
         public static double sqrt(double x)
         {
-            return Math.Pow(x, 0.5);
+            return Math.Sqrt(x);
         }
 
         public static double abs(double x)
