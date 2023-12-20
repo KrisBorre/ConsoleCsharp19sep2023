@@ -11,8 +11,6 @@ namespace WindowsFormsFrameworkConsumptiePrijsIndex14oct2023
     {
         private Chart chart2;
 
-        private List<ConsumptieRecord> lijst = new List<ConsumptieRecord>();
-
         public Form1()
         {
             InitializeComponent();
@@ -58,7 +56,7 @@ namespace WindowsFormsFrameworkConsumptiePrijsIndex14oct2023
             series2.ChartType = SeriesChartType.RangeColumn;
             series2.Legend = "legend2";
             series2.Name = "series2";
-                        
+
             StreamReader streamReader = new StreamReader(@"..\..\CPI_All_base_years.txt");
 
             const char delimiter = '|';
