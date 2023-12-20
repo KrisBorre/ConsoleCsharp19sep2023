@@ -17,6 +17,7 @@ namespace WindowsFormsFrameworkConsumptiePrijsIndex14oct2023
 
             // Drag and drop Combobox from Toolbox on Form
 
+            // https://statbel.fgov.be/nl/open-data/consumptieprijsindex-en-gezondheidsindex
             Text = "Consumptie Prijs Index";
 
             ChartArea chartArea2 = new ChartArea();
