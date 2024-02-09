@@ -52,9 +52,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleIntegration14nov2023
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleInterpolatie6dec2023", "ConsoleInterpolatie6dec2023\ConsoleInterpolatie6dec2023.csproj", "{CE6052ED-AE32-4B7C-999D-11472CCB9204}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleIntegration13dec2023", "ConsoleIntegration13dec2023\ConsoleIntegration13dec2023.csproj", "{B80E2897-FAC5-4F29-8B9D-CDE9E4E101A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleIntegration13dec2023", "ConsoleIntegration13dec2023\ConsoleIntegration13dec2023.csproj", "{B80E2897-FAC5-4F29-8B9D-CDE9E4E101A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleIntegration14dec2023", "ConsoleIntegration14dec2023\ConsoleIntegration14dec2023.csproj", "{911CD748-C7A7-4857-8D51-345B8F162B3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleIntegration14dec2023", "ConsoleIntegration14dec2023\ConsoleIntegration14dec2023.csproj", "{911CD748-C7A7-4857-8D51-345B8F162B3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryPhysicalUnits9feb2024", "LibraryPhysicalUnits9feb2024\LibraryPhysicalUnits9feb2024.csproj", "{60C9AB47-67B6-4CE2-A79B-A11B43C22E14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryPhysicalUnits9feb2024.Test", "LibraryPhysicalUnits9feb2024.Test\LibraryPhysicalUnits9feb2024.Test.csproj", "{FD307301-78C8-4591-93C5-82343FA40225}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDierenFilter9feb2024", "ConsoleDierenFilter9feb2024\ConsoleDierenFilter9feb2024.csproj", "{C2C2780F-72D4-48FB-8909-BF003B4642FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDierentuin9feb2024", "ConsoleDierentuin9feb2024\ConsoleDierentuin9feb2024.csproj", "{AD912BA5-C4BB-437A-83B4-C13AE0DBDF32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryDierentuin9feb2024", "LibraryDierentuin9feb2024\LibraryDierentuin9feb2024.csproj", "{D1058DF5-262F-4812-A99E-F819F239AE98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -162,6 +172,26 @@ Global
 		{911CD748-C7A7-4857-8D51-345B8F162B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{911CD748-C7A7-4857-8D51-345B8F162B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{911CD748-C7A7-4857-8D51-345B8F162B3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60C9AB47-67B6-4CE2-A79B-A11B43C22E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C9AB47-67B6-4CE2-A79B-A11B43C22E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C9AB47-67B6-4CE2-A79B-A11B43C22E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C9AB47-67B6-4CE2-A79B-A11B43C22E14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD307301-78C8-4591-93C5-82343FA40225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD307301-78C8-4591-93C5-82343FA40225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD307301-78C8-4591-93C5-82343FA40225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD307301-78C8-4591-93C5-82343FA40225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2C2780F-72D4-48FB-8909-BF003B4642FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2C2780F-72D4-48FB-8909-BF003B4642FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2C2780F-72D4-48FB-8909-BF003B4642FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2C2780F-72D4-48FB-8909-BF003B4642FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD912BA5-C4BB-437A-83B4-C13AE0DBDF32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD912BA5-C4BB-437A-83B4-C13AE0DBDF32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD912BA5-C4BB-437A-83B4-C13AE0DBDF32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD912BA5-C4BB-437A-83B4-C13AE0DBDF32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1058DF5-262F-4812-A99E-F819F239AE98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1058DF5-262F-4812-A99E-F819F239AE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1058DF5-262F-4812-A99E-F819F239AE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1058DF5-262F-4812-A99E-F819F239AE98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
