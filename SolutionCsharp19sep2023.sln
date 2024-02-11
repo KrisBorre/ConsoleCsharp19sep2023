@@ -56,15 +56,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleIntegration13dec2023
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleIntegration14dec2023", "ConsoleIntegration14dec2023\ConsoleIntegration14dec2023.csproj", "{911CD748-C7A7-4857-8D51-345B8F162B3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryPhysicalUnits9feb2024", "LibraryPhysicalUnits9feb2024\LibraryPhysicalUnits9feb2024.csproj", "{60C9AB47-67B6-4CE2-A79B-A11B43C22E14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryPhysicalUnits9feb2024", "LibraryPhysicalUnits9feb2024\LibraryPhysicalUnits9feb2024.csproj", "{60C9AB47-67B6-4CE2-A79B-A11B43C22E14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryPhysicalUnits9feb2024.Test", "LibraryPhysicalUnits9feb2024.Test\LibraryPhysicalUnits9feb2024.Test.csproj", "{FD307301-78C8-4591-93C5-82343FA40225}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryPhysicalUnits9feb2024.Test", "LibraryPhysicalUnits9feb2024.Test\LibraryPhysicalUnits9feb2024.Test.csproj", "{FD307301-78C8-4591-93C5-82343FA40225}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDierenFilter9feb2024", "ConsoleDierenFilter9feb2024\ConsoleDierenFilter9feb2024.csproj", "{C2C2780F-72D4-48FB-8909-BF003B4642FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDierenFilter9feb2024", "ConsoleDierenFilter9feb2024\ConsoleDierenFilter9feb2024.csproj", "{C2C2780F-72D4-48FB-8909-BF003B4642FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDierentuin9feb2024", "ConsoleDierentuin9feb2024\ConsoleDierentuin9feb2024.csproj", "{AD912BA5-C4BB-437A-83B4-C13AE0DBDF32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDierentuin9feb2024", "ConsoleDierentuin9feb2024\ConsoleDierentuin9feb2024.csproj", "{AD912BA5-C4BB-437A-83B4-C13AE0DBDF32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryDierentuin9feb2024", "LibraryDierentuin9feb2024\LibraryDierentuin9feb2024.csproj", "{D1058DF5-262F-4812-A99E-F819F239AE98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryDierentuin9feb2024", "LibraryDierentuin9feb2024\LibraryDierentuin9feb2024.csproj", "{D1058DF5-262F-4812-A99E-F819F239AE98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsIsing2D11feb2024", "WinFormsIsing2D11feb2024\WinFormsIsing2D11feb2024.csproj", "{4F02EDD9-E377-48EF-B10A-8727F7AB70EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -192,6 +194,10 @@ Global
 		{D1058DF5-262F-4812-A99E-F819F239AE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1058DF5-262F-4812-A99E-F819F239AE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1058DF5-262F-4812-A99E-F819F239AE98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F02EDD9-E377-48EF-B10A-8727F7AB70EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F02EDD9-E377-48EF-B10A-8727F7AB70EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F02EDD9-E377-48EF-B10A-8727F7AB70EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F02EDD9-E377-48EF-B10A-8727F7AB70EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
