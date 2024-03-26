@@ -66,7 +66,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDierentuin9feb2024",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryDierentuin9feb2024", "LibraryDierentuin9feb2024\LibraryDierentuin9feb2024.csproj", "{D1058DF5-262F-4812-A99E-F819F239AE98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsIsing2D11feb2024", "WinFormsIsing2D11feb2024\WinFormsIsing2D11feb2024.csproj", "{4F02EDD9-E377-48EF-B10A-8727F7AB70EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsIsing2D11feb2024", "WinFormsIsing2D11feb2024\WinFormsIsing2D11feb2024.csproj", "{4F02EDD9-E377-48EF-B10A-8727F7AB70EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsOxyPlotHistogram10mar2024", "WinFormsOxyPlotHistogram10mar2024\WinFormsOxyPlotHistogram10mar2024.csproj", "{043DA8FF-73D2-4926-B88D-6ECA833C09DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsOxyPlotHistogram11mar2024", "WinFormsOxyPlotHistogram11mar2024\WinFormsOxyPlotHistogram11mar2024.csproj", "{35F1AD2E-178F-4495-AA17-A08D6AC0414E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsOxyPlotHistogram12mar2024", "WinFormsOxyPlotHistogram12mar2024\WinFormsOxyPlotHistogram12mar2024.csproj", "{88F9A202-3259-4620-AE99-95CED0E67252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsOxyPlotHistogram13mar2024", "WinFormsOxyPlotHistogram13mar2024\WinFormsOxyPlotHistogram13mar2024.csproj", "{83BBFF5E-82DF-4C65-8DF4-C18896CE4B46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsOxyPlotHistogram14mar2024", "WinFormsOxyPlotHistogram14mar2024\WinFormsOxyPlotHistogram14mar2024.csproj", "{23E70F0B-4022-470B-8088-55488A66A0DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -198,6 +208,26 @@ Global
 		{4F02EDD9-E377-48EF-B10A-8727F7AB70EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F02EDD9-E377-48EF-B10A-8727F7AB70EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F02EDD9-E377-48EF-B10A-8727F7AB70EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{043DA8FF-73D2-4926-B88D-6ECA833C09DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{043DA8FF-73D2-4926-B88D-6ECA833C09DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{043DA8FF-73D2-4926-B88D-6ECA833C09DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{043DA8FF-73D2-4926-B88D-6ECA833C09DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35F1AD2E-178F-4495-AA17-A08D6AC0414E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F1AD2E-178F-4495-AA17-A08D6AC0414E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35F1AD2E-178F-4495-AA17-A08D6AC0414E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35F1AD2E-178F-4495-AA17-A08D6AC0414E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88F9A202-3259-4620-AE99-95CED0E67252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F9A202-3259-4620-AE99-95CED0E67252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F9A202-3259-4620-AE99-95CED0E67252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F9A202-3259-4620-AE99-95CED0E67252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83BBFF5E-82DF-4C65-8DF4-C18896CE4B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83BBFF5E-82DF-4C65-8DF4-C18896CE4B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83BBFF5E-82DF-4C65-8DF4-C18896CE4B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83BBFF5E-82DF-4C65-8DF4-C18896CE4B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23E70F0B-4022-470B-8088-55488A66A0DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E70F0B-4022-470B-8088-55488A66A0DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E70F0B-4022-470B-8088-55488A66A0DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E70F0B-4022-470B-8088-55488A66A0DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
