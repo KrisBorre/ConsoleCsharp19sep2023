@@ -1,6 +1,6 @@
-﻿namespace WinFormsOxyPlotHistogram12mar2024
+﻿namespace WinFormsOxyPlotHistogram14mar2024
 {
-    partial class Form1
+    partial class LabelPlacementForm
     {
         /// <summary>
         ///  Required designer variable.

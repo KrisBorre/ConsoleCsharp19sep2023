@@ -1,4 +1,4 @@
-namespace WinFormsOxyPlotHistogram13mar2024
+namespace WinFormsOxyPlotHistogram15mar2024
 {
     internal static class Program
     {
@@ -11,7 +11,7 @@ namespace WinFormsOxyPlotHistogram13mar2024
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new LabelPlacementForm());
+            Application.Run(new LabelFormatStringForm());
         }
     }
 }

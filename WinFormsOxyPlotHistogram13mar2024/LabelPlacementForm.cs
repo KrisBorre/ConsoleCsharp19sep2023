@@ -1,15 +1,14 @@
 using OxyPlot;
-using OxyPlot.Axes;
 using OxyPlot.Series;
 using OxyPlot.WindowsForms;
 
-namespace WinFormsOxyPlotHistogram14mar2024
+namespace WinFormsOxyPlotHistogram13mar2024
 {
-    public partial class Form1 : Form
+    public partial class LabelPlacementForm : Form
     {
         private PlotView plotView1;
 
-        public Form1()
+        public LabelPlacementForm()
         {
             InitializeComponent();
 
@@ -27,49 +26,8 @@ namespace WinFormsOxyPlotHistogram14mar2024
             Controls.Add(plotView1);
 
             PlotModel plotModel = HistogramLabelPlacement();
-            PlotModel reversedPlotModel = ReverseYAxis(plotModel);
-            Text = "OxyPlot HistogramLabelPlacement ReverseYAxis";
-            this.plotView1.Model = reversedPlotModel;
-        }
-
-        /// <summary>
-        /// Reverses the Y Axis of a PlotModel. The given PlotModel is mutated and returned for convenience.
-        /// </summary>
-        /// <param name="model">The PlotModel.</param>
-        /// <returns>The PlotModel with reversed Y Axis.</returns>
-        public static PlotModel ReverseYAxis(PlotModel model)
-        {
-            if (!string.IsNullOrEmpty(model.Title))
-            {
-                model.Title += " (reversed Y Axis)";
-            }
-
-            var foundYAxis = false;
-            foreach (var axis in model.Axes)
-            {
-                switch (axis.Position)
-                {
-                    case AxisPosition.Left:
-                        axis.StartPosition = 1 - axis.StartPosition;
-                        axis.EndPosition = 1 - axis.EndPosition;
-                        foundYAxis = true;
-                        break;
-                    case AxisPosition.Bottom:
-                    case AxisPosition.Right:
-                    case AxisPosition.Top:
-                    case AxisPosition.None:
-                        break;
-                    default:
-                        throw new ArgumentOutOfRangeException();
-                }
-            }
-
-            if (!foundYAxis)
-            {
-                model.Axes.Add(new LinearAxis { Position = AxisPosition.Left, StartPosition = 1, EndPosition = 0 });
-            }
-
-            return model;
+            Text = "OxyPlot HistogramLabelPlacement";
+            this.plotView1.Model = plotModel;
         }
 
         public static PlotModel HistogramLabelPlacement()

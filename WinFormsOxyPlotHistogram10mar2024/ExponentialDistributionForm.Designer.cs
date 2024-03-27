@@ -1,6 +1,6 @@
 ﻿namespace WinFormsOxyPlotHistogram10mar2024
 {
-    partial class Form1
+    partial class ExponentialDistributionForm
     {
         /// <summary>
         ///  Required designer variable.

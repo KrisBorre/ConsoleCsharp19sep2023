@@ -4,11 +4,11 @@ using OxyPlot.Series;
 
 namespace WinFormsOxyPlotHistogram12mar2024
 {
-    public partial class Form1 : Form
+    public partial class ExponentialDistributionForm : Form
     {
         private OxyPlot.WindowsForms.PlotView plotView1;
 
-        public Form1()
+        public ExponentialDistributionForm()
         {
             InitializeComponent();
 

@@ -4,9 +4,9 @@ using OxyPlot.Series;
 
 namespace WinFormsOxyPlotHistogram10mar2024
 {
-    public partial class Form1 : Form
+    public partial class ExponentialDistributionForm : Form
     {
-        public Form1()
+        public ExponentialDistributionForm()
         {
             InitializeComponent();
 
