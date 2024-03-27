@@ -78,7 +78,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsOxyPlotHistogram13m
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsOxyPlotHistogram14mar2024", "WinFormsOxyPlotHistogram14mar2024\WinFormsOxyPlotHistogram14mar2024.csproj", "{23E70F0B-4022-470B-8088-55488A66A0DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsOxyPlotHistogram15mar2024", "WinFormsOxyPlotHistogram15mar2024\WinFormsOxyPlotHistogram15mar2024.csproj", "{8587BE97-5B6A-41D2-B028-4EE00F0F6547}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsOxyPlotHistogram15mar2024", "WinFormsOxyPlotHistogram15mar2024\WinFormsOxyPlotHistogram15mar2024.csproj", "{8587BE97-5B6A-41D2-B028-4EE00F0F6547}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsOxyPlotHistogram16mar2024", "WinFormsOxyPlotHistogram16mar2024\WinFormsOxyPlotHistogram16mar2024.csproj", "{7C4C9366-D103-43F4-8F87-4D605819CF1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsOxyPlotHistogram17mar2024", "WinFormsOxyPlotHistogram17mar2024\WinFormsOxyPlotHistogram17mar2024.csproj", "{6D936838-1F12-46F8-B473-25A17231EE16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -234,6 +238,14 @@ Global
 		{8587BE97-5B6A-41D2-B028-4EE00F0F6547}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8587BE97-5B6A-41D2-B028-4EE00F0F6547}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8587BE97-5B6A-41D2-B028-4EE00F0F6547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C4C9366-D103-43F4-8F87-4D605819CF1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C4C9366-D103-43F4-8F87-4D605819CF1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C4C9366-D103-43F4-8F87-4D605819CF1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C4C9366-D103-43F4-8F87-4D605819CF1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D936838-1F12-46F8-B473-25A17231EE16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D936838-1F12-46F8-B473-25A17231EE16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D936838-1F12-46F8-B473-25A17231EE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D936838-1F12-46F8-B473-25A17231EE16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
