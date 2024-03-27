@@ -1,5 +1,8 @@
 # SolutionCsharp19sep2023
 ![repo19sep2023NormaalVerdeling9nov2023](https://github.com/KrisBorre/SolutionCsharp19sep2023/assets/135237046/b8f68e10-9ac2-45ed-8eff-289ade11f473)
+
+![oxyplot_normaal_verdeling_27mar2024](https://github.com/KrisBorre/SolutionCsharp19sep2023/assets/135237046/5a13f063-dfbc-403a-bc26-bd461c75dbe8)
+
 ![IsingModel2D11feb2024](https://github.com/KrisBorre/SolutionCsharp19sep2023/assets/135237046/15a76320-fe1d-40db-8049-5b06dacd5637)
 
 Het Ising-model is een theoretisch model uit de statistische mechanica dat een ferromagnetisch systeem modelleert.
