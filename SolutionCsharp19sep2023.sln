@@ -84,6 +84,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsOxyPlotHistogram16m
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsOxyPlotHistogram17mar2024", "WinFormsOxyPlotHistogram17mar2024\WinFormsOxyPlotHistogram17mar2024.csproj", "{6D936838-1F12-46F8-B473-25A17231EE16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsOxyPlotHistogram18mar2024", "WinFormsOxyPlotHistogram18mar2024\WinFormsOxyPlotHistogram18mar2024.csproj", "{B422090E-ED42-416A-9BAF-DA4F4645F50A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -246,6 +248,10 @@ Global
 		{6D936838-1F12-46F8-B473-25A17231EE16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D936838-1F12-46F8-B473-25A17231EE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D936838-1F12-46F8-B473-25A17231EE16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B422090E-ED42-416A-9BAF-DA4F4645F50A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B422090E-ED42-416A-9BAF-DA4F4645F50A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B422090E-ED42-416A-9BAF-DA4F4645F50A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B422090E-ED42-416A-9BAF-DA4F4645F50A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
