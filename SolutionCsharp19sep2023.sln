@@ -90,6 +90,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsOxyPlotHistogram19m
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsOxyPlotHistogram20mar2024", "WinFormsOxyPlotHistogram20mar2024\WinFormsOxyPlotHistogram20mar2024.csproj", "{2C9180A5-3A17-4F6D-A3CF-970D5094E976}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsOxyPlotHistogram21mar2024", "WinFormsOxyPlotHistogram21mar2024\WinFormsOxyPlotHistogram21mar2024.csproj", "{6169DCD3-7088-41D0-8BBE-4CB2FB304B46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsOxyPlotHistogram22mar2024", "WinFormsOxyPlotHistogram22mar2024\WinFormsOxyPlotHistogram22mar2024.csproj", "{57C66EA8-DAC2-4F55-AF98-7263A5BF802D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsOxyPlotHistogram23mar2024", "WinFormsOxyPlotHistogram23mar2024\WinFormsOxyPlotHistogram23mar2024.csproj", "{BE6A55A2-77CB-4085-A62B-AAB76540FF75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsOxyPlotHistogram24mar2024", "WinFormsOxyPlotHistogram24mar2024\WinFormsOxyPlotHistogram24mar2024.csproj", "{239AD839-0433-4E35-ABE9-344C2F921446}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -264,6 +272,22 @@ Global
 		{2C9180A5-3A17-4F6D-A3CF-970D5094E976}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C9180A5-3A17-4F6D-A3CF-970D5094E976}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C9180A5-3A17-4F6D-A3CF-970D5094E976}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6169DCD3-7088-41D0-8BBE-4CB2FB304B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6169DCD3-7088-41D0-8BBE-4CB2FB304B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6169DCD3-7088-41D0-8BBE-4CB2FB304B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6169DCD3-7088-41D0-8BBE-4CB2FB304B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57C66EA8-DAC2-4F55-AF98-7263A5BF802D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C66EA8-DAC2-4F55-AF98-7263A5BF802D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C66EA8-DAC2-4F55-AF98-7263A5BF802D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C66EA8-DAC2-4F55-AF98-7263A5BF802D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE6A55A2-77CB-4085-A62B-AAB76540FF75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6A55A2-77CB-4085-A62B-AAB76540FF75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6A55A2-77CB-4085-A62B-AAB76540FF75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6A55A2-77CB-4085-A62B-AAB76540FF75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{239AD839-0433-4E35-ABE9-344C2F921446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{239AD839-0433-4E35-ABE9-344C2F921446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{239AD839-0433-4E35-ABE9-344C2F921446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{239AD839-0433-4E35-ABE9-344C2F921446}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
