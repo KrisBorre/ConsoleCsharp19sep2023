@@ -80,23 +80,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsOxyPlotHistogram14m
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsOxyPlotHistogram15mar2024", "WinFormsOxyPlotHistogram15mar2024\WinFormsOxyPlotHistogram15mar2024.csproj", "{8587BE97-5B6A-41D2-B028-4EE00F0F6547}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsOxyPlotHistogram16mar2024", "WinFormsOxyPlotHistogram16mar2024\WinFormsOxyPlotHistogram16mar2024.csproj", "{7C4C9366-D103-43F4-8F87-4D605819CF1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsOxyPlotHistogram16mar2024", "WinFormsOxyPlotHistogram16mar2024\WinFormsOxyPlotHistogram16mar2024.csproj", "{7C4C9366-D103-43F4-8F87-4D605819CF1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsOxyPlotHistogram17mar2024", "WinFormsOxyPlotHistogram17mar2024\WinFormsOxyPlotHistogram17mar2024.csproj", "{6D936838-1F12-46F8-B473-25A17231EE16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsOxyPlotHistogram17mar2024", "WinFormsOxyPlotHistogram17mar2024\WinFormsOxyPlotHistogram17mar2024.csproj", "{6D936838-1F12-46F8-B473-25A17231EE16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsOxyPlotHistogram18mar2024", "WinFormsOxyPlotHistogram18mar2024\WinFormsOxyPlotHistogram18mar2024.csproj", "{B422090E-ED42-416A-9BAF-DA4F4645F50A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsOxyPlotHistogram18mar2024", "WinFormsOxyPlotHistogram18mar2024\WinFormsOxyPlotHistogram18mar2024.csproj", "{B422090E-ED42-416A-9BAF-DA4F4645F50A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsOxyPlotHistogram19mar2024", "WinFormsOxyPlotHistogram19mar2024\WinFormsOxyPlotHistogram19mar2024.csproj", "{4EA7A2D6-BCE2-427C-8A4F-07B61B122ED4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsOxyPlotHistogram19mar2024", "WinFormsOxyPlotHistogram19mar2024\WinFormsOxyPlotHistogram19mar2024.csproj", "{4EA7A2D6-BCE2-427C-8A4F-07B61B122ED4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsOxyPlotHistogram20mar2024", "WinFormsOxyPlotHistogram20mar2024\WinFormsOxyPlotHistogram20mar2024.csproj", "{2C9180A5-3A17-4F6D-A3CF-970D5094E976}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsOxyPlotHistogram20mar2024", "WinFormsOxyPlotHistogram20mar2024\WinFormsOxyPlotHistogram20mar2024.csproj", "{2C9180A5-3A17-4F6D-A3CF-970D5094E976}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsOxyPlotHistogram21mar2024", "WinFormsOxyPlotHistogram21mar2024\WinFormsOxyPlotHistogram21mar2024.csproj", "{6169DCD3-7088-41D0-8BBE-4CB2FB304B46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsOxyPlotHistogram21mar2024", "WinFormsOxyPlotHistogram21mar2024\WinFormsOxyPlotHistogram21mar2024.csproj", "{6169DCD3-7088-41D0-8BBE-4CB2FB304B46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsOxyPlotHistogram22mar2024", "WinFormsOxyPlotHistogram22mar2024\WinFormsOxyPlotHistogram22mar2024.csproj", "{57C66EA8-DAC2-4F55-AF98-7263A5BF802D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsOxyPlotHistogram22mar2024", "WinFormsOxyPlotHistogram22mar2024\WinFormsOxyPlotHistogram22mar2024.csproj", "{57C66EA8-DAC2-4F55-AF98-7263A5BF802D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsOxyPlotHistogram23mar2024", "WinFormsOxyPlotHistogram23mar2024\WinFormsOxyPlotHistogram23mar2024.csproj", "{BE6A55A2-77CB-4085-A62B-AAB76540FF75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsOxyPlotHistogram23mar2024", "WinFormsOxyPlotHistogram23mar2024\WinFormsOxyPlotHistogram23mar2024.csproj", "{BE6A55A2-77CB-4085-A62B-AAB76540FF75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsOxyPlotHistogram24mar2024", "WinFormsOxyPlotHistogram24mar2024\WinFormsOxyPlotHistogram24mar2024.csproj", "{239AD839-0433-4E35-ABE9-344C2F921446}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsOxyPlotHistogram24mar2024", "WinFormsOxyPlotHistogram24mar2024\WinFormsOxyPlotHistogram24mar2024.csproj", "{239AD839-0433-4E35-ABE9-344C2F921446}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleConsumptiePrijsIndex10jun2024", "ConsoleConsumptiePrijsIndex10jun2024\ConsoleConsumptiePrijsIndex10jun2024.csproj", "{87E64BD0-9DB4-4F60-B1D0-A7EDAC0C677B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -288,6 +290,10 @@ Global
 		{239AD839-0433-4E35-ABE9-344C2F921446}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{239AD839-0433-4E35-ABE9-344C2F921446}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{239AD839-0433-4E35-ABE9-344C2F921446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87E64BD0-9DB4-4F60-B1D0-A7EDAC0C677B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87E64BD0-9DB4-4F60-B1D0-A7EDAC0C677B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87E64BD0-9DB4-4F60-B1D0-A7EDAC0C677B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87E64BD0-9DB4-4F60-B1D0-A7EDAC0C677B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
