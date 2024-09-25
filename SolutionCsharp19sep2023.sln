@@ -98,9 +98,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsOxyPlotHistogram23m
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsOxyPlotHistogram24mar2024", "WinFormsOxyPlotHistogram24mar2024\WinFormsOxyPlotHistogram24mar2024.csproj", "{239AD839-0433-4E35-ABE9-344C2F921446}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleConsumptiePrijsIndex10jun2024", "ConsoleConsumptiePrijsIndex10jun2024\ConsoleConsumptiePrijsIndex10jun2024.csproj", "{87E64BD0-9DB4-4F60-B1D0-A7EDAC0C677B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleConsumptiePrijsIndex10jun2024", "ConsoleConsumptiePrijsIndex10jun2024\ConsoleConsumptiePrijsIndex10jun2024.csproj", "{87E64BD0-9DB4-4F60-B1D0-A7EDAC0C677B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleConsumptiePrijsIndex11jun2024", "ConsoleConsumptiePrijsIndex11jun2024\ConsoleConsumptiePrijsIndex11jun2024.csproj", "{058002E9-8A19-4DCF-A64F-1BE065E26C0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleConsumptiePrijsIndex11jun2024", "ConsoleConsumptiePrijsIndex11jun2024\ConsoleConsumptiePrijsIndex11jun2024.csproj", "{058002E9-8A19-4DCF-A64F-1BE065E26C0D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WindowsFormsConsumptiePrijsIndex12jun2024", "WindowsFormsConsumptiePrijsIndex12jun2024\WindowsFormsConsumptiePrijsIndex12jun2024.csproj", "{0EFCED3A-2D96-4F8C-BBC3-20CD788863B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsConsumptiePrijsIndex13jun2024", "WindowsFormsConsumptiePrijsIndex13jun2024\WindowsFormsConsumptiePrijsIndex13jun2024.csproj", "{A2733328-DE31-41E0-B72D-683EC2225770}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsConsumptiePrijsIndex14jun2024", "WindowsFormsConsumptiePrijsIndex14jun2024\WindowsFormsConsumptiePrijsIndex14jun2024.csproj", "{569F683B-754F-4FAE-96F2-A5EEBD45C393}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -300,6 +306,18 @@ Global
 		{058002E9-8A19-4DCF-A64F-1BE065E26C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{058002E9-8A19-4DCF-A64F-1BE065E26C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{058002E9-8A19-4DCF-A64F-1BE065E26C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EFCED3A-2D96-4F8C-BBC3-20CD788863B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EFCED3A-2D96-4F8C-BBC3-20CD788863B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EFCED3A-2D96-4F8C-BBC3-20CD788863B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EFCED3A-2D96-4F8C-BBC3-20CD788863B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2733328-DE31-41E0-B72D-683EC2225770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2733328-DE31-41E0-B72D-683EC2225770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2733328-DE31-41E0-B72D-683EC2225770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2733328-DE31-41E0-B72D-683EC2225770}.Release|Any CPU.Build.0 = Release|Any CPU
+		{569F683B-754F-4FAE-96F2-A5EEBD45C393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569F683B-754F-4FAE-96F2-A5EEBD45C393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{569F683B-754F-4FAE-96F2-A5EEBD45C393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{569F683B-754F-4FAE-96F2-A5EEBD45C393}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
